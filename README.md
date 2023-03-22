@@ -1,7 +1,5 @@
 # Hi there 👋 
 
-## 🔭 I’m currently working on ...
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am a software engineer with 2+ years of experience with large scale data systems. Highly passionate about query engines and distributed databases.\
